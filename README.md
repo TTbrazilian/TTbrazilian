@@ -2,7 +2,7 @@
 
 <p align="center">
   Desenvolvedor focado em <b>dados</b>, <b>dashboards</b> e <b>automação</b> —
-  transformando planilhas e processos manuais em sistemas úteis e confiáveis.
+  transformando dados e processos manuais em sistemas úteis e confiáveis.
 </p>
 
 <p align="center">
