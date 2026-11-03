@@ -20,7 +20,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TTbrazilian&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTbrazilian&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="top langs" />
+
 </p>
