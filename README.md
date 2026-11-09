@@ -3,7 +3,8 @@
 <p align="center">
   Desenvolvedor focado em <b>dados</b>, <b>dashboards</b> e <b>automação</b> —
   transformando dados e processos manuais em sistemas úteis e confiáveis.
-  
+</p>
+<p align="center">
   Developer focused on <b>data</b>, <b>dashboards</b>, and <b>automation</b> — 
   transforming data and manual processes into useful and reliable systems.
 </p>
@@ -25,3 +26,4 @@
 
 
 </p>
+****
